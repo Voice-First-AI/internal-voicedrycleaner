@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Hello World](README.md)
+* [Getting Started](README.md)
 
 ## How To
 
