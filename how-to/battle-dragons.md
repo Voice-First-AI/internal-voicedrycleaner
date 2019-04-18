@@ -147,5 +147,29 @@ Once you're strong enough, go into battle against the most fierce dragons. You'l
 
 ![Test-Driven Development](../.gitbook/assets/1_tzswcigatajdovywlp5ubq.jpeg)
 
+### 3. Create Commit
+
+update your local **master** code with the master branch in the clouds \( Gitlab \)
+
+```text
+git checkout master
+git pull origin master
+```
+
+create a **new branch**
+
+```text
+git checkout -b feature/<your-feature-branch>
+```
+
+**push to Gitlab**
+
+```text
+git status
+git add ./<file-changed>
+git commit "this commit solves x problem"
+git push origin feature/<your-feature-branch>
+```
+
 edit [here](https://github.com/VoiceFirstTech/voicefirsttech.com/edit/master/how-to/sell-the-future.md)
 
