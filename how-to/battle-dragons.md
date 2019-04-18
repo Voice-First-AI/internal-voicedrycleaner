@@ -171,5 +171,5 @@ git commit "this commit solves x problem"
 git push origin feature/<your-feature-branch>
 ```
 
-edit [here](https://github.com/VoiceFirstTech/voicefirsttech.com/edit/master/how-to/sell-the-future.md)
+edit [here](https://github.com/VoiceFirstTech/internal-voicedrycleaner/edit/master/how-to/battle-dragons.md)
 
