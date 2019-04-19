@@ -171,5 +171,13 @@ git commit "this commit solves x problem"
 git push origin feature/<your-feature-branch>
 ```
 
+Take Edits and **Test on Amazon Echo Dot** \(voice-dry-cleaner-dot-com\)
+
+```text
+sh deploy-local.sh "voice dry cleaner dot com"
+jovo run
+"Alexa, launch voice dry cleaner dot com"
+```
+
 edit [here](https://github.com/VoiceFirstTech/internal-voicedrycleaner/edit/master/how-to/battle-dragons.md)
 
