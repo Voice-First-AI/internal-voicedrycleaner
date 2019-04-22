@@ -167,7 +167,7 @@ git checkout -b feature/<your-feature-branch>
 ```text
 git status
 git add ./<file-changed>
-git commit "this commit solves x problem"
+git commit -m "this commit solves x problem"
 git push origin feature/<your-feature-branch>
 ```
 
