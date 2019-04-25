@@ -27,6 +27,8 @@ Once you're strong enough, _pick your galaxy_:
 
 _Leaders start with the customer and work backwards. They work vigorously to earn and keep customer trust. Although leaders pay attention to competitors, they obsess over customers. -_ [_source_](https://interviewgenie.com/blog-1/2017/11/28/how-to-answer-amazon-leadership-principle-customer-obsession-interview-questions)\_\_
 
+![](../.gitbook/assets/7_sprint_goal_patterns_for_building_great_teams_part_2_us-split.png)
+
 Some examples:
 
 * "As a mother of 4, I want to easily do laundry without having to take any time out of my day."
