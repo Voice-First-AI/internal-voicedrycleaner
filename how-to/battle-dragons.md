@@ -177,5 +177,3 @@ jovo run
 "Alexa, launch voice dry cleaner dot com"
 ```
 
-edit [here](https://github.com/VoiceFirstTech/internal-voicedrycleaner/edit/master/how-to/battle-dragons.md)
-
