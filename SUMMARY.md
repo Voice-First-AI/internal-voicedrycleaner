@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Getting Started](README.md)
+* [New Industry Research](new-industry-research.md)
 
 ## How To
 
