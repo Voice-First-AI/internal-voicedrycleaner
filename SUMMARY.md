@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Hello World](README.md)
-* [New Industry Research](new-industry-research.md)
+* [Getting Started](README.md)
 
 ## How To
 
