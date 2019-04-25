@@ -6,6 +6,8 @@ description: >-
 
 # Make Friends & Learn from Stories
 
+![](../.gitbook/assets/managementstrategy.png)
+
 ## Get Started
 
 Our vision is to communicate screenlessly. We provide magic spells, swords, and armor for our customers that give them to survive in the Age of AI. Our noble steed is headed towards the dry cleaning kingdom. **We are solving problems for the dry cleaning kingdom using voice technology powered by AI**. This section is all about collecting customer data for voice. If you are setting goals, this is where you should start. **You are accountable for making friends with people from the biggest and best kingdoms.** On your adventures to making friends and learning from stories, you will learn the following skills:
