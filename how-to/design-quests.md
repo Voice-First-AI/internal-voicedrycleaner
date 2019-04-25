@@ -25,15 +25,13 @@ Once you're strong enough, _pick your galaxy_:
 
 **Customer Obsession Statement is ...** 
 
- $$voicefirstai = NodeJS + Jovo + Python + AWS + Google Cloud + Firebase + Gitlab + CLI$$ 
+_Leaders start with the customer and work backwards. They work vigorously to earn and keep customer trust. Although leaders pay attention to competitors, they obsess over customers. -_ [_source_](https://interviewgenie.com/blog-1/2017/11/28/how-to-answer-amazon-leadership-principle-customer-obsession-interview-questions)\_\_
 
-### NodeJS 
+Some examples:
 
-**Our helmet and armor.** The programming language we use. It runs serverless in the AWS Cloud, locally with the `jovo run` command, and comes with a handy package installer called `npm`.
-
-Download: [https://nodejs.org/en/](https://nodejs.org/en/)
-
-Learn More: [https://en.wikipedia.org/wiki/Node.js](https://en.wikipedia.org/wiki/Node.js)
+* "As a mother of 4, I want to easily do laundry without having to take any time out of my day."
+* "As a young business professional, I want to clean my clothes instantly and without any thought."
+* "As an elderly grandfather, I want my favorite sweaters dry cleaned. But, I have trouble seeing tiny text on phone screens, and my arthritis makes it difficult to use the keyboard."
 
 ## 2. Pick a Planet
 
@@ -70,7 +68,5 @@ Now that we understand why Frame Design is better than Graph Design, let's take 
 ![](../.gitbook/assets/image_3_cami._cb471576681_.png)
 
 On the **left** you see the **slots** needing filled in order to complete the customer's intent.   
-On the **right** you the see the **prompts** Alexa gives in order to fill the prompts. 
-
-edit [here](https://github.com/VoiceFirstTech/internal-voicedrycleaner/edit/master/how-to/battle-dragons.md)
+On the **right** you the see the **prompts** Alexa gives in order to fill the prompts.
 
