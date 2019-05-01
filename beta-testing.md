@@ -34,7 +34,7 @@ The Unscripted Interaction allows us to see how customers organically use our vo
 
 ### Scripted Interaction
 
-The Scripted Interaction allows us to film a customer using a standard interaction. Tell your Beta Tester to start the conversation session following either script:
+The Scripted Interaction allows us to film a customer using a standard interaction. **Pick the script your Beta Tester** _**did not**_ **follow during the unscripted interaction.** Tell your Beta Tester to start the conversation session following either script:
 
 #### Script 1: On My Way
 
