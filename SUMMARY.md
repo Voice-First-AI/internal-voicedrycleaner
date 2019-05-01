@@ -2,6 +2,7 @@
 
 * [Getting Started](README.md)
 * [New Industry Research](new-industry-research.md)
+* [Beta Testing](beta-testing.md)
 
 ## How To
 
