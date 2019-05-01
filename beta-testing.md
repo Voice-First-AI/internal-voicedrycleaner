@@ -42,7 +42,9 @@ The Scripted Interaction allows us to film a customer using a standard interacti
 
 #### Script 2: Pickup Request
 
-![Pickup Script](.gitbook/assets/screenshot-from-2019-05-01-11-21-35.png)
+![Pickup Request \#1](.gitbook/assets/screenshot-from-2019-05-01-11-36-47.png)
+
+![Pickup Request \#2](.gitbook/assets/screenshot-from-2019-05-01-11-35-51.png)
 
 
 
