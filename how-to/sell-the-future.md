@@ -67,6 +67,29 @@ After you have been connected with your new Kings and Queens. **Make plans to si
 >
 >   [https://voicedrycleaner.com](https://voicedrycleaner.com)
 
+### Email
+
+#### Appointment Call Email - Demo Survey Lead
+
+> {Sailesh} from {Company},
+>
+> We received your request to demo VoiceDryCleaner.com for your business. We would like to show you the benefits Amazon Alexa, Google Assistant, and IoT can increase your profits and make your customers happier.
+>
+> Did you know 30% of Smart Speaker Owners Want to **Contact Customer Service Departments by Voice** \(source [here](https://voicebot.ai/2019/03/18/about-one-third-of-smart-speaker-owners-want-to-contact-customer-service-departments-by-voice/)\)
+
+![](../.gitbook/assets/image-7.png)
+
+> I'd like to learn more about you so we can present options to add the most value to your dry cleaning business.
+>
+> When is a better time for us to chat:
+>
+> * today at 3PM EST
+> * tomorrow at 11AM EST
+>
+> Look forward to learning more about your business,
+>
+> Your Team at VoiceDryCleaner.com
+
 ## 2. Create a Promise for a Better Tomorrow
 
 Once you're strong enough, create a promise for a better future:
