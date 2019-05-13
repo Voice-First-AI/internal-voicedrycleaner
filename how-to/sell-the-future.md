@@ -71,6 +71,8 @@ After you have been connected with your new Kings and Queens. **Make plans to si
 
 #### Appointment Call Email - Demo Survey Lead
 
+**Subject: Appointment - VoiceDryCleaner.com**
+
 > {Sailesh} from {Company},
 >
 > We received your request to demo VoiceDryCleaner.com for your business. We would like to show you the benefits Amazon Alexa, Google Assistant, and IoT can increase your profits and make your customers happier.
