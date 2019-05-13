@@ -15,4 +15,5 @@
 ## New Feature Ideation
 
 * [Selina - Store Finder](new-feature-ideation/selina-store-finder.md)
+* [Add New Business By Voice](new-feature-ideation/add-new-business-by-voice.md)
 
