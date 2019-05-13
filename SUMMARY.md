@@ -12,3 +12,7 @@
 * [Battle Dragons](how-to/battle-dragons.md)
 * [Sell the Future](how-to/sell-the-future.md)
 
+## New Feature Ideation
+
+* [Selina - Store Finder](new-feature-ideation/selina-store-finder.md)
+
