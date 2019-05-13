@@ -73,20 +73,20 @@ After you have been connected with your new Kings and Queens. **Make plans to si
 
 **Subject: Appointment - VoiceDryCleaner.com**
 
-> {Sailesh} from {Company},
+> Sailesh from Emitrr,
 >
-> We received your request to demo VoiceDryCleaner.com for your business. We would like to show you the benefits Amazon Alexa, Google Assistant, and IoT can increase your profits and make your customers happier.
+> We **received your request to demo VoiceDryCleaner.com** for your cleaning business. We would like to show you the benefits Amazon Alexa, Google Assistant, and IoT to increase your profits and make your customers happier.
 >
-> Did you know 30% of Smart Speaker Owners Want to **Contact Customer Service Departments by Voice** \(source [here](https://voicebot.ai/2019/03/18/about-one-third-of-smart-speaker-owners-want-to-contact-customer-service-departments-by-voice/)\)
-
-![](../.gitbook/assets/image-7.png)
-
-> I'd like to learn more about you so we can present options to add the most value to your dry cleaning business.
+> Stats: Did you know 30% of Smart Speaker Owners Want to Contact Customer Service Departments by Voice \(source [here](https://voicebot.ai/2019/03/18/about-one-third-of-smart-speaker-owners-want-to-contact-customer-service-departments-by-voice/)\)
 >
-> When is a better time for us to chat:
+> ![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LcfDBWfTOQabUzvWLoO%2F-LemsCIBV3CpaI8rycyZ%2F-LemuFRZyiHXwMYQD591%2Fimage%20%287%29.png?alt=media&token=2c1d40d2-6df0-4a45-b31b-d165005a9c1f)
 >
-> * today at 3PM EST
-> * tomorrow at 11AM EST
+> I'd like to **learn more about you so we can present options** to add the most value to your dry cleaning business.
+>
+> **When is a better time for us to chat:**
+>
+> * tomorrow \(May 14\) at 11AM or 3PM EST
+> * Wednesday \(May 15\) at 11AM or 3PM EST
 >
 > Look forward to learning more about your business,
 >
