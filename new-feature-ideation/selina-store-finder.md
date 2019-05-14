@@ -12,7 +12,7 @@ Let's explore what it does...
 
 ## Frame Design 
 
-![](../.gitbook/assets/untitled-diagram.png)
+![](../.gitbook/assets/untitled-diagram-3.png)
 
 ## Customer Obsession Statement
 
