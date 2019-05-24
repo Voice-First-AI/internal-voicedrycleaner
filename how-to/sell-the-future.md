@@ -83,6 +83,24 @@ After you have been connected with your new Kings and Queens. **Make plans to si
 >
 > I'd like to help your business grow with voice technologies. Let me know if you are interested in having a FREE call to discuss changes in your industry.
 
+#### Example \#3
+
+> Bobby,
+>
+> I see you know Brian Butler.
+>
+> I am helping Brian adopt to recent changes in the dry cleaning industry.
+>
+> Customers are distracted.
+>
+> Too much noise.
+>
+> Too many Screens.
+>
+> Dublin Cleaners is communicating screenlessly with Amazon Alexa and Google Assistant.
+>
+> Let's set up a meeting to discuss.
+
 ### Email
 
 #### Appointment Call Email - Demo Survey Lead
