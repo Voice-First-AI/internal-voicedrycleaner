@@ -85,19 +85,18 @@ After you have been connected with your new Kings and Queens. **Make plans to si
 
 #### Example \#3
 
-> Bobby,
+> Steve, 
 >
-> I see you know Brian Butler.
->
+> I see you know Brian Butler.   
 > I am helping Brian adopt to recent changes in the dry cleaning industry.
->
-> Customers are distracted.
->
-> Too much noise.
->
+
+> Customers are distracted.   
+> Too much noise.   
 > Too many Screens.
 >
-> Dublin Cleaners is communicating screenlessly with Amazon Alexa and Google Assistant.
+> Dublin Cleaners is communicating screenlessly.   
+> Amazon Alexa.   
+> Google Assistant.
 >
 > Let's set up a meeting to discuss.
 
