@@ -54,6 +54,8 @@ LinkedIn media attachment can be updated to any Medium, YouTube, or Blog content
 
 After you have been connected with your new Kings and Queens. **Make plans to sit down and have drinks.** Get to know these kings and queens. They are very important. Their kingdoms are unlike any other in the galaxy. **Their loyal customers are unique to their kingdom, with their own needs and desires.**
 
+#### **Example \#1**
+
 > I want to show you how voice is changing the world of dry cleaning. Word of mouth has always been the most effective way to market your business. Now, Artificial Intelligence can help you. I would love to show you how we will use AI to help your business. Best of all, it's free.  
 >   
 > Are you free tomorrow to chat?  
@@ -66,6 +68,20 @@ After you have been connected with your new Kings and Queens. **Make plans to si
 >   CEO - Voice First AI  
 >
 >   [https://voicedrycleaner.com](https://voicedrycleaner.com)
+
+#### Example \#2
+
+> Consolidated Cleaners has a very prominent brand in South Florida. 
+>
+> I am giving free information on recent changes in the dry cleaning industry.
+>
+> Amazon Alexa 
+>
+> Google Assistant
+>
+> voice technologies.
+>
+> I'd like to help your business grow with voice technologies. Let me know if you are interested in having a FREE call to discuss changes in your industry.
 
 ### Email
 
