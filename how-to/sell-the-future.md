@@ -193,3 +193,13 @@ Then wait for the answer. Because the next person who speaks is going to make a 
 
 And that's all, except writing up the sale!
 
+## Publishing 
+
+{% hint style="info" %}
+Each time you publish your Alexa Skill for Certification,[ ping the Alexa Support team](https://developer.amazon.com/support/contact-us?subjectCategory=ALEXA) - [Paul Cutsinger](https://twitter.com/PaulCutsinger)
+{% endhint %}
+
+> "Can you please help us publish our changes?  
+> Our skill is &lt;skill-name&gt;. Skill ID: &lt;skill-id&gt;  
+> Can you please help us publish our changes?"
+
